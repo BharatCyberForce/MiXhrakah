@@ -33,3 +33,5 @@ It supports **username-based, custom values, suffixes, case variations, and stro
    ```bash
    git clone https://github.com/BharatCyberForce/MiXhrakah.git
    cd MiXhrakah
+   pip3 install -r requirements.txt
+   python3 mixrahak.py
