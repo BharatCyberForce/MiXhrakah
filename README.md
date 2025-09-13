@@ -1,7 +1,6 @@
 # MiXhrakah 777 – Password Generator
 
-A modern **PyQt5 desktop application** for generating customized password combinations.  
-It supports **username-based, custom values, suffixes, case variations, and strong combinations** with an intuitive GUI.
+A modern **gui desktop application** for generating customized password combinations.  
 
 ---
 
