@@ -24,8 +24,7 @@ It supports **username-based, custom values, suffixes, case variations, and stro
 
 ## 📸 Screenshots
 
-*(Add screenshots of the app window here, `img/777.png`)*
-
+![Tool GUI](img/777.png)
 ---
 
 ## ⚙️ Installation
